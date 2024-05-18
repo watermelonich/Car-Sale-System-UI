@@ -1,0 +1,44 @@
+c:\users\farooq\documents\visual studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.csprojResolveAssemblyReference.cache
+c:\users\farooq\documents\visual studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Properties.Resources.resources
+c:\users\farooq\documents\visual studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.CarStock.CarStockForm.resources
+c:\users\farooq\documents\visual studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.MainForm.resources
+c:\users\farooq\documents\visual studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Template.resources
+c:\users\farooq\documents\visual studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.csproj.GenerateResource.Cache
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\bin\Debug\UniversalCarSaleSystem.exe.config
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\bin\Debug\UniversalCarSaleSystem.exe
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\bin\Debug\UniversalCarSaleSystem.pdb
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\bin\Debug\DbSQLSERVER.dll
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\bin\Debug\DbSQLSERVER.pdb
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.exe
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.pdb
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\bin\Debug\MetroFramework.dll
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.CarStock.UpdateStockForm.resources
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.CarStock.AddNewCarForm.resources
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.Customers.ManageCustomerForm.resources
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.Customers.CustomerInfoForm.resources
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.Customers.ManageCustomerHistoryForm.resources
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.Orders.OrderInfoForm.resources
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.Company.CompanyDetails.resources
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.LogInForm.resources
+C:\Users\FAROOQ\Documents\Visual Studio 2015\Projects\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.PasswordChangeForm.resources
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\bin\Debug\UniversalCarSaleSystem.exe.config
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.exe
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.pdb
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\bin\Debug\UniversalCarSaleSystem.exe
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\bin\Debug\UniversalCarSaleSystem.pdb
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\bin\Debug\DbSQLSERVER.dll
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\bin\Debug\DbSQLSERVER.pdb
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Properties.Resources.resources
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.CarStock.AddNewCarForm.resources
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.CarStock.CarStockForm.resources
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.CarStock.UpdateStockForm.resources
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.Company.CompanyDetails.resources
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.Customers.CustomerInfoForm.resources
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.Customers.ManageCustomerForm.resources
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.Customers.ManageCustomerHistoryForm.resources
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.LogInForm.resources
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.MainForm.resources
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.Orders.OrderInfoForm.resources
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Screens.PasswordChangeForm.resources
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.Template.resources
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\UniversalCarSaleSystem\obj\Debug\UniversalCarSaleSystem.csproj.GenerateResource.Cache

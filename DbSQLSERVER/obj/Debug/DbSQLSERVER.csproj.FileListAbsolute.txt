@@ -1,0 +1,28 @@
+c:\users\farooq\documents\visual studio 2015\Projects\GourmetPakistan\DbSQLSERVER\bin\Debug\DbSQLSERVER.dll
+c:\users\farooq\documents\visual studio 2015\Projects\GourmetPakistan\DbSQLSERVER\bin\Debug\DbSQLSERVER.pdb
+c:\users\farooq\documents\visual studio 2015\Projects\GourmetPakistan\DbSQLSERVER\obj\Debug\DbSQLSERVER.dll
+c:\users\farooq\documents\visual studio 2015\Projects\GourmetPakistan\DbSQLSERVER\obj\Debug\DbSQLSERVER.pdb
+C:\Users\FAROOQ\documents\visual studio 2015\Projects\GourmetPakistan\DbSQLSERVER\obj\Debug\DbSQLSERVER.csprojResolveAssemblyReference.cache
+E:\My Data\Visual Studio 2015\GourmetPakistan\DbSQLSERVER\bin\Debug\DbSQLSERVER.dll
+E:\My Data\Visual Studio 2015\GourmetPakistan\DbSQLSERVER\bin\Debug\DbSQLSERVER.pdb
+E:\My Data\Visual Studio 2015\GourmetPakistan\DbSQLSERVER\obj\Debug\DbSQLSERVER.csprojResolveAssemblyReference.cache
+E:\My Data\Visual Studio 2015\GourmetPakistan\DbSQLSERVER\obj\Debug\DbSQLSERVER.dll
+E:\My Data\Visual Studio 2015\GourmetPakistan\DbSQLSERVER\obj\Debug\DbSQLSERVER.pdb
+E:\WhatsApp\My Data\Visual Studio 2015\GourmetPakistan\DbSQLSERVER\bin\Debug\DbSQLSERVER.dll
+E:\WhatsApp\My Data\Visual Studio 2015\GourmetPakistan\DbSQLSERVER\bin\Debug\DbSQLSERVER.pdb
+E:\WhatsApp\My Data\Visual Studio 2015\GourmetPakistan\DbSQLSERVER\obj\Debug\DbSQLSERVER.csprojResolveAssemblyReference.cache
+E:\WhatsApp\My Data\Visual Studio 2015\GourmetPakistan\DbSQLSERVER\obj\Debug\DbSQLSERVER.dll
+E:\WhatsApp\My Data\Visual Studio 2015\GourmetPakistan\DbSQLSERVER\obj\Debug\DbSQLSERVER.pdb
+G:\GourmetPakistan\DbSQLSERVER\bin\Debug\DbSQLSERVER.dll
+G:\GourmetPakistan\DbSQLSERVER\bin\Debug\DbSQLSERVER.pdb
+G:\GourmetPakistan\DbSQLSERVER\obj\Debug\DbSQLSERVER.dll
+G:\GourmetPakistan\DbSQLSERVER\obj\Debug\DbSQLSERVER.pdb
+c:\users\farooq\documents\visual studio 2015\Projects\UniversalCarSaleSystem\DbSQLSERVER\bin\Debug\DbSQLSERVER.dll
+c:\users\farooq\documents\visual studio 2015\Projects\UniversalCarSaleSystem\DbSQLSERVER\bin\Debug\DbSQLSERVER.pdb
+c:\users\farooq\documents\visual studio 2015\Projects\UniversalCarSaleSystem\DbSQLSERVER\obj\Debug\DbSQLSERVER.dll
+c:\users\farooq\documents\visual studio 2015\Projects\UniversalCarSaleSystem\DbSQLSERVER\obj\Debug\DbSQLSERVER.pdb
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\DbSQLSERVER\bin\Debug\DbSQLSERVER.dll
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\DbSQLSERVER\bin\Debug\DbSQLSERVER.pdb
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\DbSQLSERVER\obj\Debug\DbSQLSERVER.csprojResolveAssemblyReference.cache
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\DbSQLSERVER\obj\Debug\DbSQLSERVER.dll
+D:\Universal Car Sale System Project\UniversalCarSaleSystem\DbSQLSERVER\obj\Debug\DbSQLSERVER.pdb
